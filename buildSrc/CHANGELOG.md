@@ -4,19 +4,25 @@
 This format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+The major version tracks the supported version of Kotlin:
+1. 1.x.x -- Support for Kotlin 1.7.
+2. 2.x.x -- Support for Kotlin 1.8.
+
 ## [Unreleased]
 
-## [1.3.1] - 2024-01-05
+## [2.1.1] - 2024-01-05
 
-This release supports Kotlin 1.7.
+### Fixed
+
+- Added missing imports from the template `build.gradle.kts` file.
+
+## [1.3.1] - 2024-01-05
 
 ### Fixed
 
 - Added missing imports from the template `build.gradle.kts` file.
 
 ## [2.1.0] - 2023-05-29
-
-This release supports Kotlin 1.8.
 
 ### Added
 
@@ -33,8 +39,6 @@ This release supports Kotlin 1.8.
 - Fix building for Kotlin/JVM when the Java version is different.
 
 ## [1.3.0] - 2023-05-29
-
-This release supports Kotlin 1.7.
 
 ### Added
 
@@ -122,7 +126,8 @@ This release supports Kotlin 1.7.
 - Build and publish the Dokka documentation to GitHub Pages.
 - Build and optionally deploy the various targets to Maven Central.
 
-[Unreleased]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/2.1.0...HEAD
+[Unreleased]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/2.1.1...HEAD
+[2.1.1]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/2.1.0...2.1.1
 [2.1.0]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/2.0.0...2.1.0
 [2.0.0]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/1.2.1...2.0.0
 [1.3.1]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/1.3.0...1.3.1
