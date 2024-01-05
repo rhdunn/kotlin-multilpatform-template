@@ -24,7 +24,7 @@ object Version {
          *
          * @see <a href="https://github.com/Kotlin/dokka">https://github.com/Kotlin/dokka</a>
          */
-        const val Dokka = "1.8.10"
+        const val Dokka = "1.9.10"
 
         /**
          * The version of the `kotlin("multiplatform")` plugin.

@@ -13,6 +13,7 @@ The major version tracks the supported version of Kotlin:
 ### Dependency Upgrades
 
 - Upgrade to Kotlin 1.9.22.
+- Upgrade to Dokka 1.9.10.
 
 ## [2.1.1] - 2024-01-05
 
