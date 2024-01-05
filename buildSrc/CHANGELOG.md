@@ -10,6 +10,10 @@ The major version tracks the supported version of Kotlin:
 
 ## [Unreleased]
 
+### Dependency Upgrades
+
+- Upgrade to Kotlin 1.9.22.
+
 ## [2.1.1] - 2024-01-05
 
 ### Fixed
