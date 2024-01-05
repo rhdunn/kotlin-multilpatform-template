@@ -1,4 +1,4 @@
-// Copyright (C) 2023 Reece H. Dunn. SPDX-License-Identifier: Apache-2.0
+// Copyright (C) 2023-2024 Reece H. Dunn. SPDX-License-Identifier: Apache-2.0
 
 /**
  * Versions of the various plugins and libraries used by the project.
@@ -56,6 +56,6 @@ object Version {
          *
          * @see <a href="https://github.com/junit-team/junit5">https://github.com/junit-team/junit5</a>
          */
-        const val JUnit = "5.9.3"
+        const val JUnit = "5.10.1"
     }
 }

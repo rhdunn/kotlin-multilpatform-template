@@ -14,6 +14,7 @@ The major version tracks the supported version of Kotlin:
 
 - Upgrade to Kotlin 1.9.22.
 - Upgrade to Dokka 1.9.10.
+- Upgrade to JUnit 5.10.1.
 
 ## [2.1.1] - 2024-01-05
 

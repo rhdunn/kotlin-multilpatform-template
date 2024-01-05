@@ -81,6 +81,6 @@ JetBrains for the Kotlin/Native target.
 3. [Signing Artifacts](docs/build/Signing%20Artifacts.md)
 
 ## License
-Copyright (C) 2023 Reece H. Dunn
+Copyright (C) 2023-2024 Reece H. Dunn
 
 `SPDX-License-Identifier:` [Apache-2.0](LICENSE)
