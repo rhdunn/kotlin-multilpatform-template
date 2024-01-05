@@ -7,7 +7,7 @@
 > text describing the content of this template.
 
 > __Note:__ This project requires Gradle 8.0 or higher, as the `buildSrc`
-> extensions make use of the Kotlin 1.8 APIs.
+> extensions make use of the Kotlin 1.9 APIs.
 
 See [Project Template](docs/build/Project%20Template.md) for more information
 on the structure of this Kotlin multiplatform project template.

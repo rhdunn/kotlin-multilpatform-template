@@ -7,8 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 The major version tracks the supported version of Kotlin:
 1. 1.x.x -- Support for Kotlin 1.7.
 2. 2.x.x -- Support for Kotlin 1.8.
+3. 3.x.x -- Support for Kotlin 1.9.
 
 ## [Unreleased]
+
+## [3.0.0] - 2024-01-05
 
 ### Dependency Upgrades
 
