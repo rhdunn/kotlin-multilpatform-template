@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.1] - 2024-01-05
+
+This release supports Kotlin 1.7.
+
+### Fixed
+
+- Added missing imports from the template `build.gradle.kts` file.
+
 ## [2.1.0] - 2023-05-29
 
 This release supports Kotlin 1.8.
@@ -117,6 +125,7 @@ This release supports Kotlin 1.7.
 [Unreleased]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/2.1.0...HEAD
 [2.1.0]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/2.0.0...2.1.0
 [2.0.0]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/1.2.1...2.0.0
+[1.3.1]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/1.3.0...1.3.1
 [1.3.0]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/1.2.1...1.3.0
 [1.2.1]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/rhdunn/kotlin-multilpatform-template/compare/1.1.0...1.2.0
